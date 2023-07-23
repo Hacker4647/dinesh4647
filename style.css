@@ -6,7 +6,7 @@
 }
 .bannerBgImg{
 height: 100vh;
-background-image: url("/Banner.jpg");
+background-image: url("../dinesh4647/Banner.jpg");
 background-size: cover;
 position: relative;
 }
